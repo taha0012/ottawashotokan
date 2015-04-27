@@ -1,0 +1,11 @@
+# Hashes are Comments
+
+# http://en.wikipedia.org/wiki/Robots_exclusion_standard
+# http://www.robotstxt.org
+
+# Always put a robots.txt file into your main website directory
+# Even if you are not denying access to anything
+
+Sitemap: http://mywebsite.com/seo/sitemap.xml/
+
+User-agent: *

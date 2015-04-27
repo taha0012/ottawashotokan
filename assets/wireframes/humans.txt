@@ -1,0 +1,15 @@
+/* Team */
+Developer/Designer: Mio Tahara
+Site: http://taha0012.site44.com/dsn1543/project-1/index.html
+Location: Ottawa, Canada
+
+/* Thanks*/
+To all the awesome people who helped me.
+
+/*Site*/
+
+Last update: 2013/11/21
+Standards: HTML5, CSS3
+Components: Jquery, Modernizr, etc...
+Software: Adobe, Sublime Text 2, Livereload
+

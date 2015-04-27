@@ -1,0 +1,15 @@
+/* Team */
+Developer/Designer: Mio Tahara
+Site: http://ottawashotokan.ca
+Location: Ottawa, Canada
+
+/* Thanks*/
+To all the awesome people who helped me.
+
+/*Site*/
+
+Last update: 2015/5/2
+Standards: HTML5, CSS3
+Components: Jquery, Modernizr, etc...
+Software: Adobe, Sublime Text 2, Livereload
+
